@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://cmmhartmann.com/about/</loc>
+        <loc>http://cmhartmann.github.io/about/</loc>
         <lastmod>2013-12-29T17:03:17-08:00</lastmod>
     </url>
     <url>
-        <loc>http://cmmhartmann.com/blog/archives/</loc>
+        <loc>http://cmhartmann.github.io/blog/archives/</loc>
         <lastmod>2013-12-29T16:58:13-08:00</lastmod>
     </url>
     <url>
-        <loc>http://cmmhartmann.com/</loc>
+        <loc>http://cmhartmann.github.io/</loc>
         <lastmod>2013-12-29T16:58:13-08:00</lastmod>
     </url>
     <url>
-        <loc>http://cmmhartmann.com/robots.txt</loc>
+        <loc>http://cmhartmann.github.io/robots.txt</loc>
         <lastmod>2013-12-29T16:58:13-08:00</lastmod>
     </url>
 </urlset>

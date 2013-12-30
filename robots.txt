@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://cmmhartmann.com/sitemap.xml 
+Sitemap: http://cmhartmann.github.io/sitemap.xml 
